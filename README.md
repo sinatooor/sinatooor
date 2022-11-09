@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sinatooor
 - 👀 I’m interested in economy and python programming
 - 🌱 I’m currently learning industrial engineering and management
-- 💞️ I’m looking to collaborate on finacial apps
+- 💞️ I’m looking to collaborate on financial apps
 - 📫 How to reach me: you can send me a pull request
 
 <!---
