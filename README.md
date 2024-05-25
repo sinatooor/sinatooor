@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sinatooor
+- 👋 Hi, I’m Sina
 - 👀 I’m interested in economy and python programming
 - 🌱 I’m currently learning industrial engineering and management
 - 💞️ I’m looking to collaborate on financial apps
