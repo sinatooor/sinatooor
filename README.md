@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sina
 - 👀 I’m interested in economy and python programming
-- 🌱 I’m currently learning industrial engineering and management
+- 📚 I’m currently studying industrial engineering and management at KTH
 - 💞️ I’m looking to collaborate on financial apps
 - 📫 How to reach me: you can send me a pull request
 
