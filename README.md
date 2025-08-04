@@ -1,10 +1,11 @@
 - My name is Sina
-- 👀 I’m interested in data analysis, webdev, ios app and ML.
+- 👀 I’m interested in AI, data analysis, webdev, mobile apps and ML.
 - 📚 I’m currently studying industrial engineering and management at KTH and will be done in 2027 with a master in ML.
 - 💞️ I’m looking to collaborate on everything related to finance and AI.
-- 📫 you can send me a pull request or hit me up on linkedIn.
+- 📫 you can book a time or hit me up on linkedIn.
 - https://linkedin.com/in/sinaraja
-- 
+- https://cal.com/sinar/
+
 
 <!---
 sinatooor/sinatooor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
