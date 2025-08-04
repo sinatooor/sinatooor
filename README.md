@@ -1,8 +1,8 @@
 - My name is Sina
 - 👀 I’m interested in data analysis, webdev, ios app and ML.
-- 📚 I’m currently studying industrial engineering and management at KTH and will be done in 2027 with my master in ML.
-- 💞️ I’m looking to collaborate on everything related to finance, investing and banking.
-- 📫 How to reach me: you can send me a pull request or hit me up on linkedIn.
+- 📚 I’m currently studying industrial engineering and management at KTH and will be done in 2027 with a master in ML.
+- 💞️ I’m looking to collaborate on everything related to finance and AI.
+- 📫 you can send me a pull request or hit me up on linkedIn.
 - https://linkedin.com/in/sinaraja
 - 
 
