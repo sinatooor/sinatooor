@@ -5,6 +5,8 @@
 - 📫 you can book a time or hit me up on linkedIn.
 - https://linkedin.com/in/sinaraja
 - https://cal.com/sinar/
+- my portfolio:
+- https://pomo.best/
 
 
 <!---
