@@ -6,7 +6,7 @@
 - https://linkedin.com/in/sinaraja
 - https://cal.com/sinar/
 - my portfolio:
-- https://pomo.best/
+- pomo.best
 
 
 <!---
