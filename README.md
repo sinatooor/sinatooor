@@ -6,7 +6,7 @@
 - https://linkedin.com/in/sinaraja
 - https://cal.com/sinar/
 ## My resume: 
-sinatooor.github.io
+https://sinatooor.github.io
 # My product portfolio:
 - https://pomo.best
 
