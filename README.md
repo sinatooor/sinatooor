@@ -5,7 +5,7 @@
 - 📫 you can book a time or hit me up on linkedIn.
 - https://linkedin.com/in/sinaraja
 - https://cal.com/sinar/
-## My resume: 
+### My resume: 
 https://sinatooor.github.io
 # My product portfolio:
 - https://pomo.best
