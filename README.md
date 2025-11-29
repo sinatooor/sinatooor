@@ -11,6 +11,7 @@ https://sinatooor.github.io
 - https://pomo.best
 - https://speakpro.lovable.app/
 - https://afterlove.dev
+- https://pulsy.fit
 
 
 <!---
