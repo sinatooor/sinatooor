@@ -1,7 +1,7 @@
 # Who is Sina?
-- 👀 I’m interested in AI, data analysis, webdev, mobile apps and ML.
+- 👀 I’m interested in AI, data analysis, webdev, mobile apps, ML and a bit OISINT + cyber security. 
 - 📚 I’m currently studying industrial engineering and management at KTH and will be done in 2027 with a master in ML.
-- 💞️ I’m looking to collaborate on everything related to finance and AI.
+- 💞️ I’m looking to collaborate on any project as long as you love building.
 - 📫 you can book a time or hit me up on linkedIn.
 - https://linkedin.com/in/sinaraja
 - https://cal.com/sinar/
