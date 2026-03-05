@@ -21,7 +21,7 @@ https://sinatooor.github.io
 💪 **Pulsy** – https://pulsy.fit  Fitness and health tracking.  
 📈 **OpenQwnt** - soon...  
   
-## Things I've Built for my others
+## Things I've Built for others
 - https://daniel-raufi.lovable.app
 
 <!---
