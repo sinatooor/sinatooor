@@ -13,18 +13,13 @@ https://sinatooor.github.io
 
 # My product portfolio:
 ## Things I've Built for my self
-🛠️ **AfterLove** – https://afterlove.dev  
-AI dev rescue squad fixing and finishing AI-generated apps.
-🍅 **PomoBest** – https://pomo.best  
-Minimalist productivity app powered with AI.
-🎨 **FifoColor** – https://fifocolor.app  
-Turn photos into printable AI coloring pages.
-📐 **VectorBest** – https://vectorbest.lovable.app  
-Simple vector graphics creation.
-🎤 **SpeakBest** – https://speakpro.lovable.app  
-Speech and language tools.
-💪 **Pulsy** – https://pulsy.fit  
-Fitness and health tracking.
+🛠️ **AfterLove** – https://afterlove.dev  AI dev rescue squad fixing and finishing AI-generated apps.
+🍅 **PomoBest** – https://pomo.best  Minimalist productivity app powered with AI.
+🎨 **FifoColor** – https://fifocolor.app  Turn photos into printable AI coloring pages.
+📐 **VectorBest** – https://vectorbest.lovable.app  Simple vector graphics creation.
+🎤 **SpeakBest** – https://speakpro.lovable.app  Speech and language tools.
+💪 **Pulsy** – https://pulsy.fit  Fitness and health tracking.
+📈 **OpenQwnt** - soon...
 
 ## Things I've Built for my others
 - https://daniel-raufi.lovable.app
