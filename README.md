@@ -27,8 +27,6 @@ https://sinatooor.github.io
 ### Things I've Built for others
 - https://daniel-raufi.lovable.app
 
-  
-google-site-verification: googlec81acbbee4a2e51b.html
 <!---
 sinatooor/sinatooor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
