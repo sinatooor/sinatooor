@@ -19,6 +19,7 @@ https://sinatooor.github.io
 📐 **VectorBest** – https://vectorbest.lovable.app  Simple vector graphics creation.  
 🎤 **SpeakBest** – https://speakpro.lovable.app  Speech and language tools.  
 💪 **Pulsy** – https://pulsy.fit  Fitness and health tracking.  
+🥑 Betocado – https://betocado.lovable.app  Prediction market game focused on Swedish markets.  
 📈 **OpenQwnt** - soon...  
   
 ### Things I've Built for others
