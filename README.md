@@ -7,6 +7,7 @@
 - 📫 Book a time or find me on LinkedIn:
   - https://linkedin.com/in/sinaraja
   - https://cal.com/sinar/
+  - s_i_n_a@icloud.com
 
 ### My resume:
 https://sinatooor.github.io
