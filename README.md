@@ -1,18 +1,39 @@
 # Who is Sina?
-- 👀 I’m interested in AI, data analysis, webdev, mobile apps, ML and a bit OISINT + cyber security. 
-- 📚 I’m currently studying industrial engineering and management at KTH and will be done in 2027 with a master in ML.
-- 💞️ I’m looking to collaborate on any project as long as you love building.
-- 📫 you can book a time or hit me up on linkedIn.
-- https://linkedin.com/in/sinaraja
-- https://cal.com/sinar/
-### My resume: 
-https://sinatooor.github.io
-# My product portfolio:
-- https://pomo.best
-- https://speakpro.lovable.app/
-- https://afterlove.dev
-- https://pulsy.fit
+- 👀 Interested in AI/ML, web dev, mobile apps, quant finance, and a *tiny* bit of OSINT (purely academic, I promise)
+- 📚 Double M.Sc. at KTH — Industrial Engineering + Machine Learning. Done in 2027, assuming I survive the thesis.
+- 🏆 Won a few hackathons along the way (Nordea×AWS, G-Research Quant, QuantumBlack×Lovable — top 3)
+- 🚀 Venture Scout at First Momentum, and founder of things I probably started at 2am
+- 💞️ Always down to collaborate — especially if you love building and have a slightly unrealistic deadline
+- 📫 Book a time or find me on LinkedIn:
+  - https://linkedin.com/in/sinaraja
+  - https://cal.com/sinar/
 
+### My resume:
+https://sinatooor.github.io
+
+# My product portfolio:
+## Things I've Built for my self
+
+🛠️ **AfterLove** – https://afterlove.dev  
+AI dev rescue squad fixing and finishing AI-generated apps.
+
+🍅 **Pomo** – https://pomo.best  
+Minimalist productivity app powered with AI.
+
+🎨 **FifoColor** – https://fifocolor.app  
+Turn photos into printable AI coloring pages.
+
+📐 **VectorBest** – https://vectorbest.lovable.app  
+Simple vector graphics creation.
+
+🎤 **SpeakPro** – https://speakpro.lovable.app  
+Speech and language tools.
+
+💪 **Pulsy** – https://pulsy.fit  
+Fitness and health tracking.
+
+## Things I've Built for my others
+- https://daniel-raufi.lovable.app
 
 <!---
 sinatooor/sinatooor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
