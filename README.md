@@ -12,7 +12,7 @@
 https://sinatooor.github.io
 
 # My product portfolio:
-## Things I've Built for my self
+### Things I've Built for my self
 🛠️ **AfterLove** – https://afterlove.dev  AI dev rescue squad fixing and finishing AI-generated apps.  
 🍅 **PomoBest** – https://pomo.best  Minimalist productivity app powered with AI.  
 🎨 **FifoColor** – https://fifocolor.app  Turn photos into printable AI coloring pages.  
@@ -21,7 +21,7 @@ https://sinatooor.github.io
 💪 **Pulsy** – https://pulsy.fit  Fitness and health tracking.  
 📈 **OpenQwnt** - soon...  
   
-## Things I've Built for others
+### Things I've Built for others
 - https://daniel-raufi.lovable.app
 
 <!---
