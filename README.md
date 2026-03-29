@@ -23,7 +23,7 @@ https://sinatooor.github.io
 🥑 **Betocado** – https://betocado.lovable.app  Prediction market game focused on Swedish markets.  
 🔮 **NavigateBest** – https://navigatebest.lovable.app  Plans to achieve your goals in your life.  
 🧠 **Twin-brain** – https://twin-brain.lovable.app  Document embedding of your notes and information retrieval  
-📈 **OpenQnt** - https://openqnt.lovable.app/  
+📈 **OpenQnt** - https://openqnt.sinalytica.com    
   
 ### Things I've Built for others
 - https://daniel-raufi.lovable.app
