@@ -17,10 +17,10 @@ https://sinatooor.github.io
 💙 **AfterLove** – https://afterlove.dev  Tech consultancy + fixing & finishing AI-generated apps.  
 🍅 **PomoBest** – https://pomo.best  Minimalist productivity app powered with AI.  
 🎨 **FifoColor** – https://fifocolor.app  Turn photos into printable AI coloring pages.  
-📐 **BestTools** – https://tools.sinalytica.app  Usefull tools  
+📐 **BestTools** – https://tools.sinalytica.com  Usefull tools  
 🎤 **SpeakBest** – https://speakbest.lovable.app  Speech and language tools.  
 💪 **Pulsy** – https://pulsy.fit  Fitness and health tracking.  
-🥑 **Betocado** – https://betocado.sinalytica.app  Prediction market game focused on Swedish markets.  
+🥑 **Betocado** – https://betocado.sinalytica.com  Prediction market game focused on Swedish markets.  
 🔮 **NavigateBest** – https://navigatebest.lovable.app  Plans to achieve your goals in your life.  
 🧠 **Twin-brain** – https://twin-brain.lovable.app  Document embedding of your notes and information retrieval  
 📈 **OpenQnt** - https://openqnt.sinalytica.com    
